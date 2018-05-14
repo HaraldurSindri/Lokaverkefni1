@@ -1,4 +1,3 @@
-# urban-disco
 Hópverkefni young thug
 
 
